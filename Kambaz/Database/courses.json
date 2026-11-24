@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "RS101",
+    "name": "Rocket Propulsion",
+    "number": "RS4550",
+    "startDate": "2026-01-10",
+    "endDate": "2026-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "This course provides an in-depth study of the fundamentals of rocket propulsion, including the thermodynamics of the combustion chamber and nozzle.",
+    "image": "/images/reactjs.jpg"
+  },
+  {
+    "_id": "RS102",
+    "name": "Aerodynamics",
+    "number": "RS4560",
+    "startDate": "2026-01-10",
+    "endDate": "2026-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "This course explores the principles of aerodynamics and how airflow interacts with wings, airfoils, and other flying bodies.",
+    "image": "/images/reactjs.jpg"
+  },
+  {
+    "_id": "RS103",
+    "name": "Spacecraft Design",
+    "number": "RS4570",
+    "startDate": "2026-01-10",
+    "endDate": "2026-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "This course covers spacecraft structures, propulsion, thermal control, and power systems.",
+    "image": "/images/reactjs.jpg"
+  },
+  {
+    "_id": "RS104",
+    "name": "Organic Chemistry",
+    "number": "RS4580",
+    "startDate": "2026-01-10",
+    "endDate": "2026-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "An introduction to the structure, properties, and reactions of organic compounds.",
+    "image": "/images/reactjs.jpg"
+  },
+  {
+    "_id": "RS105",
+    "name": "Inorganic Chemistry",
+    "number": "RS4590",
+    "startDate": "2026-01-10",
+    "endDate": "2026-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "A survey of the chemistry of the elements and their inorganic compounds.",
+    "image": "/images/reactjs.jpg"
+  }
+]

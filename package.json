@@ -1,0 +1,32 @@
+{
+  "name": "webdev-server",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web server for the Kambaz application",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --exec tsx index.ts",
+    "start": "tsx index.ts"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "author": "Aayush Rai",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "tsx": "^4.20.5",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/express-session": "^1.18.0",
+    "@types/node": "^22.0.0",
+    "nodemon": "^3.1.7",
+    "typescript": "^5.9.3"
+  }
+}

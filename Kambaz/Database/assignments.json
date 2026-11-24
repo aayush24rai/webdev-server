@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "A101",
+    "title": "A1 - RS101",
+    "course": "RS101",
+    "description": "Assignment 1 for RS101",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A102",
+    "title": "A2 - RS101",
+    "course": "RS101",
+    "description": "Assignment 2 for RS101",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A103",
+    "title": "A3 - RS101",
+    "course": "RS101",
+    "description": "Assignment 3 for RS101",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A104",
+    "title": "A1 - RS102",
+    "course": "RS102",
+    "description": "Assignment 1 for RS102",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A105",
+    "title": "A2 - RS102",
+    "course": "RS102",
+    "description": "Assignment 2 for RS102",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A106",
+    "title": "A3 - RS102",
+    "course": "RS102",
+    "description": "Assignment 3 for RS102",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A107",
+    "title": "A1 - RS103",
+    "course": "RS103",
+    "description": "Assignment 1 for RS103",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A108",
+    "title": "A2 - RS103",
+    "course": "RS103",
+    "description": "Assignment 2 for RS103",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A109",
+    "title": "A3 - RS103",
+    "course": "RS103",
+    "description": "Assignment 3 for RS103",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A110",
+    "title": "A1 - RS104",
+    "course": "RS104",
+    "description": "Assignment 1 for RS104",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A111",
+    "title": "A2 - RS104",
+    "course": "RS104",
+    "description": "Assignment 2 for RS104",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A112",
+    "title": "A3 - RS104",
+    "course": "RS104",
+    "description": "Assignment 3 for RS104",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A113",
+    "title": "A1 - RS105",
+    "course": "RS105",
+    "description": "Assignment 1 for RS105",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A114",
+    "title": "A2 - RS105",
+    "course": "RS105",
+    "description": "Assignment 2 for RS105",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  },
+  {
+    "_id": "A115",
+    "title": "A3 - RS105",
+    "course": "RS105",
+    "description": "Assignment 3 for RS105",
+    "points": 100,
+    "availableDate": "2026-05-06",
+    "dueDate": "2026-05-13",
+    "untilDate": "2026-05-20"
+  }
+]

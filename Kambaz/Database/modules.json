@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "M001",
+    "name": "Week 1 - Introduction",
+    "description": "Week 1 - Introduction for RS101",
+    "course": "RS101",
+    "lessons": [
+      {
+        "_id": "LM0011",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M001"
+      },
+      {
+        "_id": "LM0012",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M001"
+      }
+    ]
+  },
+  {
+    "_id": "M002",
+    "name": "Week 2 - Combustion Chambers",
+    "description": "Week 2 - Combustion Chambers for RS101",
+    "course": "RS101",
+    "lessons": [
+      {
+        "_id": "LM0021",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M002"
+      },
+      {
+        "_id": "LM0022",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M002"
+      }
+    ]
+  },
+  {
+    "_id": "M003",
+    "name": "Week 3 - Nozzle Design",
+    "description": "Week 3 - Nozzle Design for RS101",
+    "course": "RS101",
+    "lessons": [
+      {
+        "_id": "LM0031",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M003"
+      },
+      {
+        "_id": "LM0032",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M003"
+      }
+    ]
+  },
+  {
+    "_id": "M004",
+    "name": "Week 1 - Fluid Properties",
+    "description": "Week 1 - Fluid Properties for RS102",
+    "course": "RS102",
+    "lessons": [
+      {
+        "_id": "LM0041",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M004"
+      },
+      {
+        "_id": "LM0042",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M004"
+      }
+    ]
+  },
+  {
+    "_id": "M005",
+    "name": "Week 2 - Lift and Drag",
+    "description": "Week 2 - Lift and Drag for RS102",
+    "course": "RS102",
+    "lessons": [
+      {
+        "_id": "LM0051",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M005"
+      },
+      {
+        "_id": "LM0052",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M005"
+      }
+    ]
+  },
+  {
+    "_id": "M006",
+    "name": "Week 1 - Mission Design",
+    "description": "Week 1 - Mission Design for RS103",
+    "course": "RS103",
+    "lessons": [
+      {
+        "_id": "LM0061",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M006"
+      },
+      {
+        "_id": "LM0062",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M006"
+      }
+    ]
+  },
+  {
+    "_id": "M007",
+    "name": "Week 2 - Structures and Materials",
+    "description": "Week 2 - Structures and Materials for RS103",
+    "course": "RS103",
+    "lessons": [
+      {
+        "_id": "LM0071",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M007"
+      },
+      {
+        "_id": "LM0072",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M007"
+      }
+    ]
+  },
+  {
+    "_id": "M008",
+    "name": "Week 1 - Bonding",
+    "description": "Week 1 - Bonding for RS104",
+    "course": "RS104",
+    "lessons": [
+      {
+        "_id": "LM0081",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M008"
+      },
+      {
+        "_id": "LM0082",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M008"
+      }
+    ]
+  },
+  {
+    "_id": "M009",
+    "name": "Week 2 - Functional Groups",
+    "description": "Week 2 - Functional Groups for RS104",
+    "course": "RS104",
+    "lessons": [
+      {
+        "_id": "LM0091",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M009"
+      },
+      {
+        "_id": "LM0092",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M009"
+      }
+    ]
+  },
+  {
+    "_id": "M010",
+    "name": "Week 1 - Periodic Trends",
+    "description": "Week 1 - Periodic Trends for RS105",
+    "course": "RS105",
+    "lessons": [
+      {
+        "_id": "LM0101",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M010"
+      },
+      {
+        "_id": "LM0102",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M010"
+      }
+    ]
+  },
+  {
+    "_id": "M011",
+    "name": "Week 2 - Coordination Compounds",
+    "description": "Week 2 - Coordination Compounds for RS105",
+    "course": "RS105",
+    "lessons": [
+      {
+        "_id": "LM0111",
+        "name": "Learning Objectives",
+        "description": "What you will learn this week",
+        "module": "M011"
+      },
+      {
+        "_id": "LM0112",
+        "name": "Reading",
+        "description": "Assigned reading",
+        "module": "M011"
+      }
+    ]
+  }
+]
